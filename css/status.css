@@ -9,9 +9,9 @@ MIT License | Copyright (c) 2021 Absucc */
   --body-background-color:rgb(49,49,49);
   --body-text-color:white;
   --card-background-color:#30363D;
-  --nav-background-color:#161b22;
+  --nav-background-color:rgb(49,49,49);
   --nav-border-bottom-color:#161b22;
-  --nav-current-border-bottom-color:#1abc9c;
+  --nav-current-border-bottom-color:#0076d1;
   --card-border-color:#30363D;
   --down-border-left-color:#eb3b5a;
   --down-background-color:#6b1020;
@@ -30,5 +30,4 @@ MIT License | Copyright (c) 2021 Absucc */
   --submit-button-color:white;
   --graph-opacity:1;
   /* --graph-filter: brightness(0.35) sepia(1) hue-rotate(88deg) saturate(8); */
-}
-body{padding:2%;color:white;}
+}body{padding:2%;color:white;}
